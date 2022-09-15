@@ -5,6 +5,8 @@ El desafío es construir esta landing page y lograr que se parezca lo más posib
 - HTML
 - CSS
 
+![desktop-preview](https://user-images.githubusercontent.com/112582420/190314327-980580c3-1bd4-484e-8fe9-6e0fc5e7841e.jpg)
+
 # Guía de Estilo
 
 ## Diseño
