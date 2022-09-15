@@ -169,6 +169,10 @@ body {
     transition: all .3s ease-in-out;
 }
 
+.hero_area_img:hover {
+    transform: scale(1.08);
+}
+
 .hero_area_items {
     width: 50%;
     margin-left: auto;
@@ -229,6 +233,11 @@ body {
 
 .central_image_area_img {
     margin-left: 4px;
+    transition: all .3s ease-in-out;
+}
+
+.central_image_area_img:hover {
+    transform: scale(1.08);
 }
 
 /* SPECS AREA INFO STYLES */
@@ -317,6 +326,14 @@ body {
     justify-content: space-between;
     align-items: center;
     transition: all .3s ease-in-out;
+}
+
+.logos_area_img {
+    transition: all .2s ease-in-out;
+}
+
+.logos_area_img:hover {
+    transform: scale(1.15);
 }
 
 /* DOWNLOAD AREA STYLES */
